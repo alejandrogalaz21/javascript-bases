@@ -28,7 +28,10 @@ const comments = [
 // 4) if is at least one person 19 or older, give me a new Object with the
 //    the people who are older than 19 and the prop user concat the index, add the original props of the object and add the days they have lived
 //    to today, the prop of is older: true or false, example :
-//    {user1: { name: 'Wes', year: 1988 , daysAlive: 2312, isOlder: true }
+//    {
+//     user1: { name: 'Wes', year: 1988 , daysAlive: 2312, isOlder: true },
+//     user2: { name: 'Wes', year: 1988 , daysAlive: 2312, isOlder: true }
+//    }
 
 // (comments)
 // 5) find the comment with the ID of 823423 and give me the object of
