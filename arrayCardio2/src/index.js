@@ -17,13 +17,13 @@ const comments = [
 
 // ! don't use a pattern
 // (people)
-// 1) is at least one person 19 or older ?
+// 1) is at least one person 19 or older ? true | false
 
 // 2) if is at least one person 19 or older, give me a new array with the
 //    the people who are older than 19 and add the days they have lived
 //    to today in the array of objects
 
-// 3) is everyone 19 or older?
+// 3) is everyone 19 or older ? true | false
 
 // 4) if is at least one person 19 or older, give me a new Object with the
 //    the people who are older than 19 and the prop user concat the index, add the original props of the object and add the days they have lived
